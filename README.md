@@ -1,6 +1,8 @@
 # Elements - A Magical Experience
 I worked on this side project to create something new interactive and visually appealing content for the users. You can use your webcam without any heavy VFX to create these visualizations. It brings joy to just be able to see those powers come to life just like your favourite characters do in movies, shows etc. 
 
+![power](emote/powers.gif)
+
 ## Power List
 - 🔥 Fire Flame : Summon a small flame on the tip of your finger ( literally! ).
 - 💧 Water Shield : Summon a water shield by charging with your right fist and then opening your hand to create the shield.
